@@ -7,18 +7,18 @@
 <img align="right" height="300px" width="400px" src="https://giffiles.alphacoders.com/363/36302.gif"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourashis-haldar&label=Profile%20views&color=4a91d9&style=flat" alt="sourashis-haldar" /> </p>
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning <strong>Web Development</strong>
 
 - 📫 How to reach me **sourashishaldar34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sour23255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sour23255" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sourashis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourashis" height="30" width="40" /></a>
-<a href="https://fb.com/sourashis1.halder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sourashis1.halder" height="30" width="40" /></a>
-<a href="https://instagram.com/__sourashis_23__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sourashis_23__" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sourashis_34" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sourashis_34" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sourashishaldar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sourashishaldar1" height="30" width="40" /></a>
+<a href="https://twitter.com/sour23255" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sour23255" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sourashis" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourashis" height="30" width="40" /></a>
+<a href="https://fb.com/sourashis1.halder" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sourashis1.halder" height="30" width="40" /></a>
+<a href="https://instagram.com/__sourashis_23__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sourashis_23__" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sourashis_34" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sourashis_34" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sourashishaldar1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sourashishaldar1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,7 +26,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourashis-haldar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourashis-haldar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&order=2" height="150"  alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=sourashis-haldar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=sourashis-haldar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourashis-haldar&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />

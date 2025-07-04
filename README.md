@@ -10,6 +10,7 @@
 <img align="right" height="300px" width="400px" src="https://giffiles.alphacoders.com/363/36302.gif"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourashis-haldar&label=Profile%20views&color=4a91d9&style=flat" alt="sourashis-haldar" /> </p>
+ <h3> 🔍 About Me: </h3>
 - 🌱 I’m currently learning <strong>Web Development</strong>
 
 - 📫 How to reach me **sourashishaldar34@gmail.com**

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+github+profile" alt="Typing SVG" />
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&width=435&lines=Welcome+to+my+github+profile" alt="Typing SVG" />
 </p>
 <h1 align="center">Hi 👋, I'm Sourashis Haldar</h1>
 <h3 align="center">A passionate Softwere developer from India</h3>

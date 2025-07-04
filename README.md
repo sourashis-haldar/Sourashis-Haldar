@@ -2,6 +2,10 @@
 <h3 align="center">A passionate Softwere developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourashis-haldar&label=Profile%20views&color=4a91d9&style=flat" alt="sourashis-haldar" /> </p>
+<br clear="both">
+
+<img align="right" height="300px" width="400px" src="https://giffiles.alphacoders.com/363/36302.gif"  />
+
 
 - 🌱 I’m currently learning **Web Development**
 

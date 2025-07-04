@@ -1,7 +1,4 @@
 <h3 align="center">Hi 👋, I'm Sourashis Haldar</h3>
-
-###
-
 <p align="center">A passionate Software Engineer Devolper From India</p>
 
 ###

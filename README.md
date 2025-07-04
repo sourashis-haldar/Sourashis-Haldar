@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourashis Haldar</h1>
 <h3 align="center">A passionate Softwere developer from India</h3>
-<img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" alt="odin">
+<img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" height="400px" alt="odin">
 
 - 🌱 I’m currently learning **Web Development**
 
